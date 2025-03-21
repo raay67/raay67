@@ -2,7 +2,7 @@
 # 👾 Greetings, Traveler! You’ve Entered My Code Realm. ⚡
 
 
-<div align="center" padding-right="10">
+<div align="center" padding-right="10px">
    <img src="https://github.com/user-attachments/assets/61df4132-8f69-4b0a-8eb6-8f11756bd0e2" alt="bat banner">
 </div>
 
