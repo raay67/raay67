@@ -7,9 +7,9 @@
 </div>
 
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Bhard27.Bhard27)
+
 <div align="center">
-   [<img src="https://github.com/user-attachments/assets/d1522711-f53f-437e-b484-6005c4844679" width="24">](/https://x.com/RAbunkmau)
+   [<img src="https://github.com/user-attachments/assets/d1522711-f53f-437e-b484-6005c4844679" width="24">](https://x.com/RAbunkmau)
 </div>
 
 
