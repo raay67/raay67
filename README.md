@@ -15,7 +15,7 @@
 </a>
 
   <a href="https://www.instagram.com/ray1array/">
-  <img src="https://github.com/user-attachments/assets/6bba4acc-1a31-4207-844f-c2db1730a3c2" fill="red" width="24">
+  <img src="https://github.com/user-attachments/assets/6bba4acc-1a31-4207-844f-c2db1730a3c2" fill="f0f6fc" color="f0f6fc" width="24">
 </a>
 
   <a href="https://x.com/RAbunkmau">
