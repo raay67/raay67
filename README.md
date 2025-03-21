@@ -8,6 +8,7 @@
 
 
 
+![Uploading instagram.svg…]()
 
 <div align="center">
   <a href="https://x.com/RAbunkmau">
@@ -15,7 +16,7 @@
 </a>
 
   <a href="https://www.instagram.com/ray1array/">
-  <img src="https://github.com/user-attachments/assets/6bba4acc-1a31-4207-844f-c2db1730a3c2" fill="f0f6fc" color="f0f6fc" width="24">
+  <img src="https://github.com/user-attachments/assets/15308ca9-ac15-4df9-b8fa-23acb3cb3b32"  width="24">
 </a>
 
   <a href="https://x.com/RAbunkmau">
