@@ -6,8 +6,11 @@
    <img src="https://github.com/user-attachments/assets/61df4132-8f69-4b0a-8eb6-8f11756bd0e2" alt="bat banner">
 </div>
 
-![x](https://github.com/user-attachments/assets/d1522711-f53f-437e-b484-6005c4844679)
 
+
+<div align="center">
+   <img src="https://github.com/user-attachments/assets/d1522711-f53f-437e-b484-6005c4844679" width="24px" >
+</div>
 
 
 
