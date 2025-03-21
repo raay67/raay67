@@ -22,6 +22,9 @@
   <a href="https://www.reddit.com/user/Electrical_Line1662/">
   <img src="https://github.com/user-attachments/assets/f7910325-11bc-41ae-b718-702887f3990f" width="24">
 </a>
+  <a href="https://discord.com/channels/pablo.7911">
+  <img src="https://github.com/user-attachments/assets/932dd531-db61-494d-a878-61eee5056e50" width="24">
+</a>
 </div>
 
 <div align="center">
